@@ -2,7 +2,7 @@
 
 let apiUrl
 const apiUrls = {
-  production: '<replace-with-heroku-url>',
+  production: 'https://irynavbet.github.io/main-portfolio/',
   development: 'http://localhost:4741'
 }
 
